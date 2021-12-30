@@ -21,7 +21,7 @@
 # Download
 Available for Windows.
 
-[Check the latest release](https://github.com/alexa-00/grados/releases/latest/download/Grados.zip)
+[Check the latest release](https://github.com/alexa-00/grados/releases/latest/download)
 
 # License
 💜 [MIT License](/LICENSE)
